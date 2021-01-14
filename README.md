@@ -1,5 +1,5 @@
-|![Screenshot](img.jpg) |
-|:--: | 
+![Screenshot](img.jpg)
+<p align="center"> <img width="600" height="200" src="img.jpg"> </p>
 
 ## About me
 I am currently working as a researcher at Jožef Stefan Institute (Ljubljana). My research interests is News Bias, Digital Journalism, Natural Language Processing, Machine Learning, and Deep Learning.
