@@ -1,11 +1,9 @@
 |![Screenshot](img.jpg) |
 |:--: | 
 
-## Welcome to GitHub Pages
+## About me
+I am currently working as a researcher at Jožef Stefan Institute (Ljubljana). My research interests is News Bias, Digital Journalism, Natural Language Processing, Machine Learning, and Deep Learning.
 
-You can use the [editor on GitHub](https://github.com/Swati17293/Swati/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
