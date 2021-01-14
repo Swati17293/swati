@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+logo: [img.jpg]
 github:
   is_project_page: false
-logo: [img.jpg]
+
