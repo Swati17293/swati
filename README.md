@@ -1,4 +1,5 @@
-![Screenshot](img.jpg)
+|![Screenshot](img.jpg) |
+|:--: | 
 
 ## Welcome to GitHub Pages
 
