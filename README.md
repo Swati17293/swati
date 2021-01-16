@@ -1,7 +1,5 @@
 <br>
 <br>
-<br>
-<br>
 ## About me
 
 I am currently working as an Early Stage Researcher (ESR) for the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/) along with pursuing my Ph.D. from [Jožef Stefan Institute](https://ijs.si). Prior to this, I hold a M.Tech degree in Mathematics and computing from [Indian Institute of Technology](https://www.iitp.ac.in/) (Patna, India).
