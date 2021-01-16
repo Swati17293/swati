@@ -5,9 +5,9 @@ I am currently working as an Early Stage Researcher (ESR) for the EU-funded Hori
 
 ## Research
 
-The purpose of my current research is to develop methods, techniques and tools for analyzing cross-lingual news reporting bias to enhance digital journalism. It is conducted under the supervision of Professor [Dunja Mladenić](https://ailab.ijs.si/dunja_mladenic/) and [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/). 
+The purpose of my current research is to develop methods, techniques and tools for analyzing cross-lingual news reporting bias. It is conducted under the supervision of Professor [Dunja Mladenić](https://ailab.ijs.si/dunja_mladenic/) and [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/). 
 
-My main research interests lie in the field of: News Bias, Digital Journalism, Deep Learning, Machine Learning. 
+I am concerned primarily with research in the field of: News Bias, Digital Journalism, Deep Learning, Machine Learning. 
 
 ## Publications
 
