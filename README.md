@@ -11,6 +11,7 @@ I am concerned primarily with research in the field of: News Bias, Digital Journ
 
 ## Publications
 
+To see my publication list, click [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6KxNAn4pOVbd91IDrvumw177FMYRc24tFLf9_U6EPxnrBClMGGYR9pRPn8_n5XTa9Mhv-6UDkXFJPf0FQFLNGmRt9xlW04UhmvPyt786iLNAnN1vA&user=Da3yANwAAAAJ).
 
 
 ## Contact Information
