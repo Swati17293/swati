@@ -15,7 +15,8 @@ If you are involved in AI research or development, whether in fairness and bias 
 To see my publication list, click [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6KxNAn4pOVbd91IDrvumw177FMYRc24tFLf9_U6EPxnrBClMGGYR9pRPn8_n5XTa9Mhv-6UDkXFJPf0FQFLNGmRt9xlW04UhmvPyt786iLNAnN1vA&user=Da3yANwAAAAJ).
 
 <h4> Contact Information </h4>
-- [swati.swati@unibw.de](mailto:swati.swati@unibw.de) or [swati17293@gmail.com](mailto:swati17293@gmail.com)<br/>
+- [swati.swati@unibw.de](mailto:swati.swati@unibw.de)<br/>
+- [swati17293@gmail.com](mailto:swati17293@gmail.com)<br/>
 - [Google Scholar](href="https://scholar.google.com/citations?hl=en&user=Da3yANwAAAAJ)<br/>
 - [LinkedIn](href="https://www.linkedin.com/in/swati17293)<br/>
 - [GitHub](href="https://github.com/swati17293)<br/>
