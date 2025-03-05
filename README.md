@@ -44,10 +44,8 @@ If you're working on **AI fairness, NLP, or bias mitigation**, I’d love to exc
 
 🔗 **Find me online:**  
 - 🏛️ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Da3yANwAAAAJ)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) *(Add your LinkedIn link if available)*
-- 🏗️ [GitHub](https://github.com/YOUR-GITHUB-USERNAME) *(Make sure your GitHub is up to date!)*  
+- 💼 [LinkedIn](https://www.linkedin.com/swati17293) 
+- 🏗️ [GitHub](https://github.com/swati17293)
 
 ---
 
-## ⚡ Projects & Code  
-Stay tuned for updates on my **AI research and open-source contributions**! 🚀  
